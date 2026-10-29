@@ -1,6 +1,6 @@
 # Dokumentasi Jaringan PT Maju Jaya: Campus Expansion
 
-Disusun oleh: \[isi nama\] | Tanggal: 29 Oktober 2026 | Alat: Cisco Packet Tracer (Physical + Logical workspace)
+Disusun oleh: \[yusufarif20\] | Tanggal: 29 Oktober 2026 | Alat: Cisco Packet Tracer (Physical + Logical workspace)
 
 ## 1. Ringkasan
 
